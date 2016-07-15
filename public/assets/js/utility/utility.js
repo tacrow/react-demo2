@@ -1,0 +1,5 @@
+App.util = (function() {
+	return {
+		
+	};
+}());
