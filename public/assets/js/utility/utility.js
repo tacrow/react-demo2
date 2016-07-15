@@ -1,5 +1,0 @@
-App.util = (function() {
-	return {
-		
-	};
-}());
